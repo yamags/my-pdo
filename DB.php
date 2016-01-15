@@ -6,7 +6,7 @@
  * Time: 15:02
  */
 namespace DataBase;
-
+USE PDO;
 
 class DB implements DBConnectionInterface
 {
