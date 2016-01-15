@@ -9,7 +9,7 @@
 namespace DataBase\Query;
 
 use DataBase\DBConnectionInterface;
-
+use PDO;
 class DBQuery implements DBQueryInterface
 {
     /** @var DBConnectionInterface */
