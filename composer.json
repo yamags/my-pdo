@@ -3,6 +3,7 @@
   "description": "checklist5 test",
   "version": "1.0",
   "license": "MIT",
+  "minimum-stability": "dev",
   "autoload": {
     "classmap": [""]
   }
