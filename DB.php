@@ -8,6 +8,7 @@
 namespace DataBase;
 USE PDO;
 
+
 class DB implements DBConnectionInterface
 {
     /** @var DB[] */
